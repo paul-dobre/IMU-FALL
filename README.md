@@ -9,4 +9,4 @@
 * Davis Dickson (30129540)
 
 ## Fall Detection Using IMU Data 
-```This repository contains the implementation and analysis of two machine learning models for fall detection using the SisFall dataset. The project leverages IMU (Inertial Measurement Unit) sensor data to classify falls and activities of daily living (ADLs) with high accuracy and reliability.```
+```This repository contains the implementation and analysis of two machine learning models for fall detection using the SisFall dataset. The project leverages IMU (Inertial Measurement Unit) sensor data to classify falls and activities of daily living (ADLs) with high accuracy and reliability. The first model, a binary classification model, was implemented to classify data as “not a fall” and a “fall”. The second model, a multiclass model, classified the data as a “not fall” or into one of 15 different types of fall classes. We compare these models for applicability in real-world fall detection. ```
